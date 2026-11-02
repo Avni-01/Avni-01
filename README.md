@@ -47,24 +47,16 @@
 |---|---|
 | [StudySync](https://github.com/Avni-01/StudySync) | Full-stack student study partner matching platform |
 | [SmartPick](https://github.com/Vashist-09/SmartPick) | Embedded pick-by-light parcel retrieval system |
-| Obstacle Avoidance Robot | Autonomous robot using ultrasonic sensing |
+| [Obstacle Avoidance Robot](https://github.com/Avni-01/Obstacle-Avoidance-Robot-Car) | Autonomous robot using ultrasonic sensing |
+
 
 ## ✧ github statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Avni-01&show_icons=true&hide_border=true&bg_color=10091A&title_color=C4A1FF&icon_color=B388FF&text_color=E9D5FF"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Avni-01&show_icons=true&hide_border=true&bg_color=10091A&title_color=C4A1FF&icon_color=B388FF&text_color=E9D5FF" height="165"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avni-01&layout=compact&hide_border=true&bg_color=10091A&title_color=C4A1FF&text_color=E9D5FF"/>
-
-</div>
-
----
-
-<div align="center">
-
-*✧ thanks for visiting my little corner ✧*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:32105C,100:090611&height=100&section=footer" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Avni-01&layout=compact&hide_border=true&bg_color=10091A&title_color=C4A1FF&text_color=E9D5FF" height="165"/>
 
 </div>
+
