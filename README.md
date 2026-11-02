@@ -88,17 +88,14 @@
 
 ---
 
+
 ## ✧ github statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avni-01&show_icons=true&hide_border=true&bg_color=10091A&title_color=C4A1FF&icon_color=B388FF&text_color=E9D5FF"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Avni-01&show_icons=true&hide_border=true&bg_color=10091A&title_color=C4A1FF&icon_color=B388FF&text_color=E9D5FF" height="165"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avni-01&layout=compact&hide_border=true&bg_color=10091A&title_color=C4A1FF&text_color=E9D5FF"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avni-01&bg_color=10091A&color=C4A1FF&line=9B5DE5&point=E9D5FF&area=true&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Avni-01&layout=compact&hide_border=true&bg_color=10091A&title_color=C4A1FF&text_color=E9D5FF" height="165"/>
 
 </div>
 
